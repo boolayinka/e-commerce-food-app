@@ -13,7 +13,7 @@ download zip or clone repo (all required files are included)
 
 ### view the website here  
 
-https://princexz.github.io/Food-E-commerce_Website-App/
+https://boolayinka.github.io/Food-E-commerce_Website-App/
 
 
 ## Screenshots
